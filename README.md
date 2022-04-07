@@ -14,7 +14,7 @@ The code and pretrained models are available in this repository.
 
 # Models
 
-All teacher and student models are available [here](https://data.mendeley.com/datasets/rscbjbr9sj/2).
+All teacher and student models are available [here](https://drive.google.com/drive/folders/1SDR3X_UPYNpDzLxwKjhlgfbdlWVoRI-q?usp=sharing) and [here](https://drive.google.com/drive/folders/1u8L3d9G1ObYOtV00V2DtIQ4_UVqLx2a-?usp=sharing)
 
 # References
 [1]	 A. Vaswani et al., “Attention is All you Need,” in Advances in Neural Information Processing Systems, 2017, vol. 30, [Online]. Available: https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf.
